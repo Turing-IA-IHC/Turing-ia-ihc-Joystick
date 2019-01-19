@@ -1,0 +1,5 @@
+H:\Develop\Turing-ia-ihc\Turing-ia-ihc-Joystick\Turing-ia-ihc-Joystick\bin\Debug\Turing-ia-ihc-Joystick.dll
+H:\Develop\Turing-ia-ihc\Turing-ia-ihc-Joystick\Turing-ia-ihc-Joystick\bin\Debug\Turing-ia-ihc-Joystick.pdb
+H:\Develop\Turing-ia-ihc\Turing-ia-ihc-Joystick\Turing-ia-ihc-Joystick\obj\Debug\Turing-ia-ihc-Joystick.csprojResolveAssemblyReference.cache
+H:\Develop\Turing-ia-ihc\Turing-ia-ihc-Joystick\Turing-ia-ihc-Joystick\obj\Debug\Turing-ia-ihc-Joystick.dll
+H:\Develop\Turing-ia-ihc\Turing-ia-ihc-Joystick\Turing-ia-ihc-Joystick\obj\Debug\Turing-ia-ihc-Joystick.pdb

@@ -1,0 +1,12 @@
+H:\Develop\Turing-ia-ihc\Turing-ia-ihc-Joystick\Turing-ia-ihc-Joystick-tester\bin\Debug\Turing-ia-ihc-Joystick-tester.exe.config
+H:\Develop\Turing-ia-ihc\Turing-ia-ihc-Joystick\Turing-ia-ihc-Joystick-tester\bin\Debug\Turing-ia-ihc-Joystick-tester.exe
+H:\Develop\Turing-ia-ihc\Turing-ia-ihc-Joystick\Turing-ia-ihc-Joystick-tester\bin\Debug\Turing-ia-ihc-Joystick-tester.pdb
+H:\Develop\Turing-ia-ihc\Turing-ia-ihc-Joystick\Turing-ia-ihc-Joystick-tester\bin\Debug\Turing-ia-ihc-Joystick.dll
+H:\Develop\Turing-ia-ihc\Turing-ia-ihc-Joystick\Turing-ia-ihc-Joystick-tester\bin\Debug\Turing-ia-ihc-Joystick.pdb
+H:\Develop\Turing-ia-ihc\Turing-ia-ihc-Joystick\Turing-ia-ihc-Joystick-tester\obj\Debug\Turing-ia-ihc-Joystick-tester.csprojResolveAssemblyReference.cache
+H:\Develop\Turing-ia-ihc\Turing-ia-ihc-Joystick\Turing-ia-ihc-Joystick-tester\obj\Debug\Turing_ia_ihc_Joystick_tester.Client.resources
+H:\Develop\Turing-ia-ihc\Turing-ia-ihc-Joystick\Turing-ia-ihc-Joystick-tester\obj\Debug\Turing_ia_ihc_Joystick_tester.Properties.Resources.resources
+H:\Develop\Turing-ia-ihc\Turing-ia-ihc-Joystick\Turing-ia-ihc-Joystick-tester\obj\Debug\Turing_ia_ihc_Joystick_tester.Server.resources
+H:\Develop\Turing-ia-ihc\Turing-ia-ihc-Joystick\Turing-ia-ihc-Joystick-tester\obj\Debug\Turing-ia-ihc-Joystick-tester.csproj.GenerateResource.Cache
+H:\Develop\Turing-ia-ihc\Turing-ia-ihc-Joystick\Turing-ia-ihc-Joystick-tester\obj\Debug\Turing-ia-ihc-Joystick-tester.exe
+H:\Develop\Turing-ia-ihc\Turing-ia-ihc-Joystick\Turing-ia-ihc-Joystick-tester\obj\Debug\Turing-ia-ihc-Joystick-tester.pdb
